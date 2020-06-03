@@ -1,0 +1,21 @@
+w3-blurp {
+  color: #7289da;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: true;
+  position: relative;
+  top: 20px;
+}
+
+.intro {
+  position: relative;
+  top: -140px;
+  width: 60%;
+}
+
+.whyus {
+text-align: center
+}
